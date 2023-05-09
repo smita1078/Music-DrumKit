@@ -1,0 +1,74 @@
+html {
+    font-size: 10px;
+    background: url('pexels-vishnu-r-nair-1105666.jpg') bottom center;
+    background-size: cover;
+  }
+
+  @font-face {
+    font-family: 'ConcertOne-Regular';
+    src: url(ConcertOne-Regular.ttf);
+   }
+  
+  body,html {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  .keys {
+    display: flex;
+    flex: 1;
+    min-height: 95vh;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .key {
+    border: .4rem solid black;
+    box-shadow: 10px 20px 70px 6px #ffffff;
+    border-radius: .5rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+    padding: 1rem .5rem;
+    transition: all .07s ease;
+    width: 10rem;
+    text-align: center;
+    color: white;
+    background: rgba(0,0,0,0.4);
+    text-shadow: 0 0 .5rem black;
+  }
+  
+  .playing {
+    transform: scale(1.1);
+    border-color: #e40909;
+    box-shadow: 0 0 1rem #e41212;
+  }
+  
+  kbd {
+    display: block;
+    font-size: 4rem;
+  }
+  
+  .sound {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    color: #f0d574;
+  }
+  
+  #heading{
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    top: 100px;
+  }
+  body {
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  }
+  #aling{
+    
+    font-family: ConcertOne-Regular;
+    color:rgb(0, 0, 0);
+    text-shadow: 0 0 .9rem rgb(216, 22, 22);
+  }

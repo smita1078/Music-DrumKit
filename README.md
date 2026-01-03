@@ -126,9 +126,7 @@ Contributions, issues, and feature requests are welcome!
 ## 🙏 Acknowledgments
 
 - Built as part of web development learning journey
-
 ---
-
 **🎵 Happy Drumming! 🥁**
-```
+
 

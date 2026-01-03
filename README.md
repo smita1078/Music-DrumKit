@@ -13,7 +13,7 @@ Interactive virtual drum kit that lets you play 8 different drum sounds using yo
 
 ## 🎮 How to Play
 
-1. Visit the [live demo](https://drumkit-music.netlify.app)
+1. Visit the [live demo]([https://drumkit-music.netlify.app](https://music-drumkit.netlify.app/))
 2. Press the corresponding keys on your keyboard
 3. Or click the drum buttons with your mouse
 4. Create your own beats and rhythms!
@@ -41,7 +41,7 @@ Interactive virtual drum kit that lets you play 8 different drum sounds using yo
 ## 🚀 Local Setup
 ```bash
 # Clone the repository
-git clone https://github.com/smita1078/drumkit.git
+git clone https://github.com/smita1078/Music-DrumKit.git
 
 # Navigate to directory
 cd drumkit

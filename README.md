@@ -132,24 +132,3 @@ Contributions, issues, and feature requests are welcome!
 **🎵 Happy Drumming! 🥁**
 ```
 
----
-
-## 🏷️ Updated Topics
-```
-drumkit
-drum-machine
-music
-javascript
-html5-audio
-vanilla-javascript
-keyboard-events
-interactive
-web-audio
-audio
-browser-game
-educational-project
-beginner-friendly
-```
-H - Ride 🌊
-S - Snare 🥁
-K - Tom 🪘

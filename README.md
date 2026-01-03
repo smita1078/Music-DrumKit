@@ -54,9 +54,8 @@ open index.html
 ## 📂 Project Structure
 ```
 drumkit/
-├── index.html          # Main HTML file
-├── style.css           # Styling and animations
-├── script.js           # JavaScript logic
+├── index.html  + js script        # Main HTML file # JavaScript logic
+├── style.css           # Styling and animations          
 ├── sounds/             # Audio files folder
 │   ├── clap.wav
 │   ├── hihat.wav
